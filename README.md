@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨‍💻 Frederico Ribeiro
 
-<!--
-**TheFredexx/TheFredexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `whoami`
+> **Status:** 🟢 Seeking FCT / Junior Roles
+> **Focus:** Linux SysAdmin & Cybersecurity
+> **Location:** Remote / Onsite
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Cybersecurity & Labs
+* **HackTheBox:** [Escribe aquí tu rango o link]
+* **TryHackMe:** [Escribe aquí tu nivel o link]
+* **OverTheWire:** Mastering the CLI (Bandit & Beyond)
+
+---
+
+### 🛠️ Tech Stack
+`Linux (Ubuntu/Debian/Arch)` `Bash Scripting` `Python` `Network Security` `Docker`
+
+---
+
+### ⚡ Terminal Stats
+![TheFredexx Stats](https://github-readme-stats.vercel.app/api?username=TheFredexx&show_icons=true&theme=terminal&hide_border=true)
+
+---
