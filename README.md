@@ -19,8 +19,6 @@
 
 ---
 
-### ⚡ Terminal Stats
-
 ### ⚡ GitHub Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFredexx&bg_color=000000&color=4EAA25&line=4EAA25&point=FFFFFF&hide_border=true&area=true)
 
