@@ -8,7 +8,7 @@
 ---
 
 ### 🛡️ Cybersecurity & Labs
-* **OverTheWire:** `Linux Mastery` | Level: [Pon tu nivel actual] | *Bandit is my playground.*
+* **OverTheWire:** `Linux Mastery` | Level: 3 | *Bandit is my playground.*
 * **HackTheBox:** `Enthusiast` | *Currently pwnerying Easy machines.*
 * **TryHackMe:** `Active Learner` | *Strengthening Network & Web security.*
 
