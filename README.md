@@ -22,7 +22,7 @@
 ### ⚡ Terminal Stats
 
 ### ⚡ GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFredexx&theme=terminal&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFredexx&theme=terminal&hide_border=true&area=true&v=1)
 
 ### 🛠️ Tech Stack & Tools
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
