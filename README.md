@@ -22,9 +22,12 @@
 ### ⚡ Terminal Stats
 
 ### ⚡ GitHub Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFredexx&theme=tokyonight&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFredexx&theme=terminal&hide_border=true&area=true)
 
-### 🛠️ Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFredexx&layout=compact&theme=terminal&hide_border=true)
-
+### 🛠️ Tech Stack & Tools
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ---
