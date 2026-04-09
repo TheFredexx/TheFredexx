@@ -8,9 +8,9 @@
 ---
 
 ### 🛡️ Cybersecurity & Labs
-* **HackTheBox:** [Escribe aquí tu rango o link]
-* **TryHackMe:** [Escribe aquí tu nivel o link]
-* **OverTheWire:** Mastering the CLI (Bandit & Beyond)
+* **OverTheWire:** `Linux Mastery` | Level: [Pon tu nivel actual] | *Bandit is my playground.*
+* **HackTheBox:** `Enthusiast` | *Currently pwnerying Easy machines.*
+* **TryHackMe:** `Active Learner` | *Strengthening Network & Web security.*
 
 ---
 
@@ -21,5 +21,5 @@
 
 ### ⚡ Terminal Stats
 ![TheFredexx Stats](https://github-readme-stats.vercel.app/api?username=TheFredexx&show_icons=true&theme=terminal&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFredexx&layout=compact&theme=terminal&hide_border=true)
 ---
