@@ -21,12 +21,10 @@
 
 ### ⚡ Terminal Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheFredexx&show_icons=true&theme=terminal&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+### ⚡ GitHub Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheFredexx&theme=tokyonight&hide_border=true&area=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFredexx&layout=compact&theme=terminal&hide_border=true" alt="Top Languages" />
-</p>
+### 🛠️ Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFredexx&layout=compact&theme=terminal&hide_border=true)
 
 ---
