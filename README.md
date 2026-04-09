@@ -20,6 +20,13 @@
 ---
 
 ### ⚡ Terminal Stats
-![TheFredexx Stats](https://github-readme-stats.vercel.app/api?username=TheFredexx&show_icons=true&theme=terminal&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheFredexx&layout=compact&theme=terminal&hide_border=true)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheFredexx&show_icons=true&theme=terminal&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheFredexx&layout=compact&theme=terminal&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
